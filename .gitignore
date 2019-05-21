@@ -1,0 +1,9 @@
+cv
+cv-zh
+cv/*.aux
+cv/*.log
+cv/*.out
+cv/*.pdf
+cv/*.synctex.gz
+.idea
+.DS_Store
